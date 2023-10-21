@@ -108,6 +108,9 @@
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=Rimjhim-Kumari&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 
+<!-- Snake Animation -->
+<img src="https://raw.githubusercontent.com/Rimjhim-Kumari/Rimjhim-Kumari/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Rimjhim-Kumari/count.svg?"  />
