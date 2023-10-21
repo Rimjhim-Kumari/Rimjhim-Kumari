@@ -107,6 +107,12 @@
 ###
 
 <div align="center">
+  <img src="https://github.com/Rimjhim-Kumari/Rimjhim-Kumari/blob/output/github-contribution-grid-snake.gif" alt="GitHub Contribution Grid Snake">
+</div>
+
+###
+
+<div align="center">
   <img src="https://profile-counter.glitch.me/Rimjhim-Kumari/count.svg?"  />
 </div>
 
