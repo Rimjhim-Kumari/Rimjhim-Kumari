@@ -107,7 +107,7 @@
 ###
 
 <div align="center">
-  <img src="https://github.com/Rimjhim-Kumari/Rimjhim-Kumari/blob/output/github-contribution-grid-snake.gif" alt="GitHub Contribution Grid Snake">
+  <img src="https://github.com/Rimjhim-Kumari/Rimjhim-Kumari/.github/workflows/github-contribution-grid-snake.gif" alt="GitHub Contribution Grid Snake">
 </div>
 
 ###
