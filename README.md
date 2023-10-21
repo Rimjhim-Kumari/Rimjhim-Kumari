@@ -32,10 +32,11 @@
 
 ###
 
-<p align="left">I'm passionate about crafting robust and scalable solutions using a diverse skill set. I thrive on mastering technologies like:<br><br>Languages: C, C++,Java,Python<br>Tech stacks: HTML, CSS, JavaScript, Bootstrap, ReactJS, Node.js, Express.js, MongoDB.<br>Theory: Linux fundamentals, SQL, Networking, Operating System, Database Management System.<br><br>My Journey✌️<br>My journey is all about exploration and learning. Each day, I wake up with an insatiable curiosity to dive into new technologies and expand my horizons. Hands-on projects have been my guiding stars, teaching me invaluable lessons and offering a canvas for creativity.<br><br>Let's connect 🤝 and collaborate to drive innovation with technology.</p>
+<p align="left">I'm passionate about crafting robust and scalable solutions using a diverse skill set. I thrive on mastering technologies like:<br><br>🔘Languages: C, C++,Java,Python<br>🔘Tech stacks: HTML, CSS, JavaScript, Bootstrap, ReactJS, Node.js, Express.js, Material UI, Bootstrap, MongoDB<br>🔘Theory: Linux fundamentals, SQL, Networking, Operating System, Database Management System<br><br>My Journey✌️<br><br> Each day, I wake up with an insatiable curiosity to dive into new technologies and expand my horizons. Hands-on projects have been my guiding stars, teaching me invaluable lessons and offering a canvas for creativity. What actually excites me is exporing and learning from new experience.<br><br>Let's connect 🤝 and collaborate to drive innovation with technology.</p>
+
 
 ###
-
+<br>
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
@@ -83,7 +84,7 @@
 </div>
 
 ###
-
+<br>
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
@@ -101,7 +102,7 @@
 
 ###
 
-## 🏆 GitHub Trophies:
+## <br>🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=Rimjhim-Kumari&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 
 ###
@@ -112,8 +113,8 @@
 
 ###
 
-<div align="center">
+<!--<div align="center">
   <img src="https://profile-counter.glitch.me/Rimjhim-Kumari/count.svg?"  />
-</div>
+</div> -->
 
 ###
