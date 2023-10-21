@@ -105,9 +105,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=Rimjhim-Kumari&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 
 ###
-![snake gif](https://github.com/Rimjhim-Kumari/Rimjhim-Kumari/blob/output/github-contribution-grid-snake.gif)
-
-###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Rimjhim-Kumari/count.svg?"  />
